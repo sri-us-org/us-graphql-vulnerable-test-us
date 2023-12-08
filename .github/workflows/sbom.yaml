@@ -4,7 +4,7 @@ on: [pull_request,push]
  
 jobs:
   scan:
-    name: Code Scan
+    name: Code Scans
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
