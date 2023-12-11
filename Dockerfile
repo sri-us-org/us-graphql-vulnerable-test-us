@@ -1,5 +1,4 @@
 FROM python:3.7-alpine
-LABEL maintainer= "Nagaraju" 
 
 LABEL description="Damn Vulnerable GraphQL Application"
 LABEL github="https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application"
